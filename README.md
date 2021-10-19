@@ -1,16 +1,19 @@
-### Hi there 👋
+## Gatis Kevans 👋
 
-<!--
-**gatiskevans/gatiskevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hard-working and self-motivated Software Developer. Experienced Systems Administrator and Computer Technician with strong enthusiasm in IT and technologies.
+I'm a vivid hobbyist in astrophotography, enjoy travelling and sciences. Mainly in physics and astronomy.
 
-Here are some ideas to get you started:
+## Contact Me On LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [LinkedIn](https://www.linkedin.com/in/gatis-kevans/)
+
+## A couple of My Projects
+
+### [Products Catalogue](https://github.com/gatiskevans/Product-catalogue)
+A small webpage where user can register, login, add, edit and view registered products.
+
+### [ToDo Page](https://github.com/gatiskevans/Login-Register-ToDo-App)
+A small webpage using MVC pattern where user can register and login and add tasks to do
+
+### [Weather App](https://github.com/gatiskevans/weather-app)
+Project where user can see current and upcoming weather for a searched location. Priject uses WeatherAPI for data.
