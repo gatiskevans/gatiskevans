@@ -16,4 +16,4 @@ A small webpage where user can register, login, add, edit and view registered pr
 A small webpage using MVC pattern where user can register, login and add tasks to do
 
 * [Weather App](https://github.com/gatiskevans/weather-app)
-Project where user can see current and upcoming weather for a searched location. Priject uses WeatherAPI for data.
+Project where user can see current and upcoming weather for a searched location. Project uses WeatherAPI for data.
