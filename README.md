@@ -13,7 +13,7 @@ Contact Me: 📞 +371 25408832 [@LinkedIn](https://www.linkedin.com/in/gatis-kev
 A small webpage where user can register, login, add, edit and view registered products.
 
 * [ToDo Page](https://github.com/gatiskevans/Login-Register-ToDo-App)
-A small webpage using MVC pattern where user can register and login and add tasks to do
+A small webpage using MVC pattern where user can register, login and add tasks to do
 
 * [Weather App](https://github.com/gatiskevans/weather-app)
 Project where user can see current and upcoming weather for a searched location. Priject uses WeatherAPI for data.
