@@ -3,6 +3,8 @@
 Hard-working and self-motivated Software Developer. Experienced Systems Administrator and Computer Technician with strong enthusiasm in IT and technologies.
 I'm a vivid hobbyist in astrophotography, enjoy travelling and sciences. Mainly in physics and astronomy.
 
+Skills I have obtained: PHP, MySQL, Laravel, Unit & Integration testing (including TDD methods), MVC, SOLID & design patterns (KISS, DRY etc.), GIT, Building REST API, HTML & CSS, VueJS basics
+
 ## Contact Me On LinkedIn
 
 ### [LinkedIn](https://www.linkedin.com/in/gatis-kevans/)
