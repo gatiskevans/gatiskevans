@@ -7,7 +7,7 @@ Skills I have obtained during my time: PHP, MySQL, Laravel, Unit & Integration t
 
 Contact Me: 📞 +371 25408832 [@LinkedIn](https://www.linkedin.com/in/gatis-kevans/) Email: [gatis.kevans@gmail.com](gatis.kevans@gmail.com)
 
-## A couple of My Projects
+## A Couple of My Projects
 
 * [Products Catalogue](https://github.com/gatiskevans/Product-catalogue)
 A small webpage where user can register, login, add, edit and view registered products.
