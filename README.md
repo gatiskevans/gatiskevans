@@ -10,7 +10,7 @@ Contact Me: 📞 +371 25408832 [@LinkedIn](https://www.linkedin.com/in/gatis-kev
 ## A Couple of My Projects
 
 * [Stock Trader App](https://github.com/gatiskevans/stock-trader)
-An app where user can view current US stocks, values and test their skills to gain or lose profit.
+An app where user can view current US stocks, values and test their skills to gain or lose profit. App uses Finnhub API for data.
 
 * [Products Catalogue](https://github.com/gatiskevans/Product-catalogue)
 A small webpage where user can register, login, add, edit and view registered products.
